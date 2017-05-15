@@ -1,5 +1,6 @@
 #CTA200H 2017 Problem Set 1 Submission
-  Jack Hong
+
+  Jack Hong \\
   Partner: Bill Kong
 
 Notes:
