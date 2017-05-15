@@ -1,7 +1,7 @@
 #CTA200H 2017 Problem Set 1 Submission
 
-  Jack Hong \\
-  Partner: Bill Kong
+Jack Hong <br>
+Partner: Bill Kong 
 
 Notes:
  * My partner and I are each submitting our own work, but we worked together on the problems.
