@@ -1,0 +1,2 @@
+From the plot, we note that it is not a good idea to just make delta as small as possible. There is a trade off
+between rounding error in the computer and the error from not making delta 0.
