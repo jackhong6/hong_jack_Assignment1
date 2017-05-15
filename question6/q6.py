@@ -52,7 +52,7 @@ class Speeder(Spaceship):
         Spaceship.__init__(self, name, laser, shield, hull, type)
 
     def hit(self, laser):
-        if np.random.random() > 0:
+        if np.random.random() > 0.5:
             return Spaceship.hit(self, laser)
         else:
             return False
